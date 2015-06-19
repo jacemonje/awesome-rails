@@ -119,6 +119,7 @@ You can edit this list from [here](https://github.com/ekremkaraca/awesome-rails/
 
 | Name | Description | Link |
 |------|-------------|------|
+| [Hummingbird](https://github.com/hummingbird-me/hummingbird) | Anime social networking site and review tracker | [Live](https://hummingbird.me/)| 
 | [diaspora](https://github.com/diaspora/diaspora) | Distributed and contextual social networking |[Live](https://diasporafoundation.org/) |
 | [coderwall](https://github.com/assemblymade/coderwall) | Professional network for software engineers | [Live](https://coderwall.com/) |
 | [follow-all](https://github.com/codeforamerica/follow-all) | Follow all the members of a Twitter list with a single click | [Live](http://follow-all.herokuapp.com/) |
